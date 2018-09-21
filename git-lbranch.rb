@@ -2,10 +2,10 @@ require 'formula'
 
 class Git-Lbranch < Formula
   homepage 'https://github.com/shuheiktgw/git-lbranch'
-  version 'v0.0.1'
+  version 'v0.0.2'
 
-  url 'https://github.com/shuheiktgw/git-lbranch/releases/download/v0.0.1/git-lbranch_v0.0.1_darwin_amd64.zip'
-  sha256 '056a7b2cfc8f2050d71dcbff32fd313b72b83726756ded06baf11f36f2bc7ce9'
+  url 'https://github.com/shuheiktgw/git-lbranch/releases/download/v0.0.2/git-lbranch_v0.0.2_darwin_amd64.zip'
+  sha256 'ff8f047d442ad537e7be766460370f22ab6294d5b863e49068b7b7dfa74bd107'
 
   def install
     bin.install 'git-lbranch'
