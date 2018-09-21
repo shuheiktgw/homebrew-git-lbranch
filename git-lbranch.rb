@@ -1,6 +1,6 @@
 require 'formula'
 
-class Git-Lbranch < Formula
+class GitLbranch < Formula
   homepage 'https://github.com/shuheiktgw/git-lbranch'
   version 'v0.0.4'
 
